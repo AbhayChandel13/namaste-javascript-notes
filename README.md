@@ -86,4 +86,4 @@ From the creator of Namaste Javascript himself, 🙌
 
 ## ✨ Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you !
